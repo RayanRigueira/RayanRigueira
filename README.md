@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou Rayan Rigueira
+- 👀 Eu estou interessado em aprender mais todos os dias!
+- 🌱 Eu estou aprendendo como utilizar o SCRACH, JavaScript, html e CSS
+- 📫 Voce pode entrar em contato pelo e-mail rayan.rigueira@escola.pr.gov.br
